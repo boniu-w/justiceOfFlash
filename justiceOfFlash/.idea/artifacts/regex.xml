@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="regex">
+    <output-path>$PROJECT_DIR$/out/artifacts/regex</output-path>
+    <root id="archive" name="regex.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/zijinchuantoupingtai/target/classes/com/example/zijinchuantoupingtai/util" />
+    </root>
+  </artifact>
+</component>

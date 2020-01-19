@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false" profiles="dev">
+          <file>file://$MODULE_DIR$/src/main/resources/iocTest.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/yx/config/ProfileConfig.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/yx/config/BeanConfig.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/yx/config/BeanLifeCycle.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/yx/config/PersonConfig.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/yx/config/AopConfig.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/yx/config/BeanConfig02.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/yx/config/TxConfig.java</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+</module>

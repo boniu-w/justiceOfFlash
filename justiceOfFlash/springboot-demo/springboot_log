@@ -1,0 +1,33 @@
+2019-11-18 11:35:45.450  INFO 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : Starting SpringbootDemoApplicationTests on DESKTOP-0PQ0K2L with PID 26916 (started by 颐信科技 in E:\IdeaProjects\justiceOfFlash\springboot-demo)
+2019-11-18 11:35:45.451 DEBUG 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-18 11:35:45.452  INFO 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : No active profile set, falling back to default profiles: default
+2019-11-18 11:35:46.381  INFO 26916 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-18 11:35:46.576  INFO 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : Started SpringbootDemoApplicationTests in 1.323 seconds (JVM running for 2.058)
+2019-11-18 11:35:46.705 TRACE 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : 这是 trace 日志```
+2019-11-18 11:35:46.705 DEBUG 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : 这是 debug 日志```
+2019-11-18 11:35:46.705  INFO 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : 这是 info 日志```
+2019-11-18 11:35:46.705  WARN 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : 这是 warn 日志```
+2019-11-18 11:35:46.705 ERROR 26916 --- [main] c.e.s.SpringbootDemoApplicationTests     : 这是 error 日志```
+2019-11-18 11:35:46.715  INFO 26916 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] DEBUG %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] TRACE %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] DEBUG %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  WARN %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] ERROR %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [SpringContextShutdownHook]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] DEBUG %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] TRACE %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] DEBUG %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main]  WARN %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [main] ERROR %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
+2019-11-18 === [SpringContextShutdownHook]  INFO %PARSER_ERROR[longger] - %PARSER_ERROR[ms]
